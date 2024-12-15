@@ -29,12 +29,12 @@ Let’s talk tech, learn, break stuff, and build cool things together! 💥
 				'Numismatics'
 			]
 	
-	def getCity():
-		return Bangalore_Karnataka()
+	def get_city(self):
+		return 'Bangalore, Karnataka'
 	
-	def Ambitions():
-		BePolyglot(Kannada, English, Hindi, Deutsch=None, Español=None)
-		AceDSA()
+	def ambitions(self):
+		self.be_polyglot(Kannada, English, Hindi, Deutsch=None, Español=None)
+		self.ace_dsa()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
