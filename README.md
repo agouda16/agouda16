@@ -41,4 +41,4 @@ Let’s talk tech, learn, break stuff, and build cool things together! 💥
  
 ## Current Works
  * Learning Terraform !!
- * I'm currently working on 🔭 building **Web Application for Sharing Credentials** and working up on polishing my skills 🌱 in **DSA**.
+ * I'm currently working on 🔭 building **Web Application for Sharing Verifiable Credentials** and working up on polishing my skills 🌱 in **DSA**.
